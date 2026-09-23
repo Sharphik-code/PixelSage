@@ -276,8 +276,6 @@ GalleryAI::GalleryAI(QWidget *parent)
     btn2->move(100, 0);
     btn2->setStyleSheet("QPushButton { color: #4771b5; }");
 
-
-
     rescanFolder();
     //метка случайного фото
     /*auto *labelRandom = new QLabel(this);
