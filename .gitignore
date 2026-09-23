@@ -2,7 +2,7 @@
 node_modules/
 venv/
 __pycache__/
-build/
+build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/
 
 # Файлы окружения (секреты)
 .env
