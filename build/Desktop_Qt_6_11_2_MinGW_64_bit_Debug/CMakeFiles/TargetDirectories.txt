@@ -1,0 +1,9 @@
+D:/Gallery/AIGallery/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/CMakeFiles/AIGallery.dir
+D:/Gallery/AIGallery/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/CMakeFiles/edit_cache.dir
+D:/Gallery/AIGallery/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/CMakeFiles/rebuild_cache.dir
+D:/Gallery/AIGallery/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/CMakeFiles/list_install_components.dir
+D:/Gallery/AIGallery/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/CMakeFiles/install.dir
+D:/Gallery/AIGallery/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/CMakeFiles/install/local.dir
+D:/Gallery/AIGallery/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/CMakeFiles/install/strip.dir
+D:/Gallery/AIGallery/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/CMakeFiles/AIGallery_autogen_timestamp_deps.dir
+D:/Gallery/AIGallery/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/CMakeFiles/AIGallery_autogen.dir

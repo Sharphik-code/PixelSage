@@ -1,0 +1,3 @@
+D:\QT\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\AIGallery.dir/objects.a
+D:\QT\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\AIGallery.dir/objects.a @CMakeFiles\AIGallery.dir\objects1.rsp
+D:\QT\Tools\mingw1310_64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\AIGallery.dir/objects.a -Wl,--no-whole-archive -o AIGallery.exe -Wl,--out-implib,libAIGallery.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\AIGallery.dir\linkLibs.rsp

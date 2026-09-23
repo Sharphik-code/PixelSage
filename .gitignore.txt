@@ -1,0 +1,15 @@
+# Зависимости
+node_modules/
+venv/
+__pycache__/
+
+# Файлы окружения (секреты)
+.env
+*.env
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Логи
+*.log
